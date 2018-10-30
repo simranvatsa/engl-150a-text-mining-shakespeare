@@ -1,2 +1,4 @@
-# Text mining William Shakespeare
+# Text-mining William Shakespeare
 ### "By all the vows that ever men have broke / (In number more than ever women spoke)" 
+
+This was a final project for an English class I took winter quarter 2018. Through the course, our professor encouraged us to explore the digital humanities, providing nltk and Voyant tutorials to help us get started. When he gave us the option to submit a text-mining project instead of a final paper, I decided to try my hand at text analysis, which I knew very little about at the time. This is the product of that attempt, and it was quite a learning experience.
